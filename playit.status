@@ -1,2040 +1,1632 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719863402902 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1719947776428 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2OI-AAAAAQAAAAEAAAAAAAAAADzIqwP7HGfndXwY0oGXqWIvaLGJi52U8KKGlyolTb9T
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863406034 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947779529 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2OI-AAAAAQAAAAEAAAAAAAAAADzIqwP7HGfndXwY0oGXqWIvaLGJi52U8KKGlyolTb9T
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863409135 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947782607 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2OI-AAAAAQAAAAEAAAAAAAAAADzIqwP7HGfndXwY0oGXqWIvaLGJi52U8KKGlyolTb9T
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863412192 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947785707 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2OI-AAAAAQAAAAEAAAAAAAAAADzIqwP7HGfndXwY0oGXqWIvaLGJi52U8KKGlyolTb9T
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863415276 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947788764 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2OI-AAAAAQAAAAEAAAAAAAAAADzIqwP7HGfndXwY0oGXqWIvaLGJi52U8KKGlyolTb9T
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863418337 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947791867 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2R5bAAAAAQAAAAEAAAAAAAAAAK2s_fIscIwZVNSSca_qW1U-RUJPk_fGLspRCK2vFUEO
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863421454 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947794937 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2R5bAAAAAQAAAAEAAAAAAAAAAK2s_fIscIwZVNSSca_qW1U-RUJPk_fGLspRCK2vFUEO
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863424556 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947798077 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2R5bAAAAAQAAAAEAAAAAAAAAAK2s_fIscIwZVNSSca_qW1U-RUJPk_fGLspRCK2vFUEO
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863427736 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947801201 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2R5bAAAAAQAAAAEAAAAAAAAAAK2s_fIscIwZVNSSca_qW1U-RUJPk_fGLspRCK2vFUEO
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863430805 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947804349 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2R5bAAAAAQAAAAEAAAAAAAAAAK2s_fIscIwZVNSSca_qW1U-RUJPk_fGLspRCK2vFUEO
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863433880 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947807422 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2VsXAAAAAQAAAAEAAAAAAAAAALahjmXOPV0aSquVhjirwo_jBwmsW1WeU1YOUgN0gPJa
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863436992 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947810471 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2VsXAAAAAQAAAAEAAAAAAAAAALahjmXOPV0aSquVhjirwo_jBwmsW1WeU1YOUgN0gPJa
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863440060 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947813562 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2VsXAAAAAQAAAAEAAAAAAAAAALahjmXOPV0aSquVhjirwo_jBwmsW1WeU1YOUgN0gPJa
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863443149 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947816629 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2VsXAAAAAQAAAAEAAAAAAAAAALahjmXOPV0aSquVhjirwo_jBwmsW1WeU1YOUgN0gPJa
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863446253 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947819682 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2VsXAAAAAQAAAAEAAAAAAAAAALahjmXOPV0aSquVhjirwo_jBwmsW1WeU1YOUgN0gPJa
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863449387 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947822752 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2ZerAAAAAQAAAAEAAAAAAAAAACtpOWjPDAzaaxfKb1MWY7VDIAgujpRP_Csm3kxvmxXx
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863452466 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947825915 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2ZerAAAAAQAAAAEAAAAAAAAAACtpOWjPDAzaaxfKb1MWY7VDIAgujpRP_Csm3kxvmxXx
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863455550 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947829037 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2ZerAAAAAQAAAAEAAAAAAAAAACtpOWjPDAzaaxfKb1MWY7VDIAgujpRP_Csm3kxvmxXx
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863458644 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947832092 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2ZerAAAAAQAAAAEAAAAAAAAAACtpOWjPDAzaaxfKb1MWY7VDIAgujpRP_Csm3kxvmxXx
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863461689 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947835198 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2ZerAAAAAQAAAAEAAAAAAAAAACtpOWjPDAzaaxfKb1MWY7VDIAgujpRP_Csm3kxvmxXx
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863464759 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947838255 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2dO4AAAAAQAAAAEAAAAAAAAAAGKT4yfVYsRGr8qaLo6PS4Z6A0g6RGAc3SiNbIke3RDG
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863467859 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947841309 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2dO4AAAAAQAAAAEAAAAAAAAAAGKT4yfVYsRGr8qaLo6PS4Z6A0g6RGAc3SiNbIke3RDG
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863470994 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947844407 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2dO4AAAAAQAAAAEAAAAAAAAAAGKT4yfVYsRGr8qaLo6PS4Z6A0g6RGAc3SiNbIke3RDG
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863474079 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947847483 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2dO4AAAAAQAAAAEAAAAAAAAAAGKT4yfVYsRGr8qaLo6PS4Z6A0g6RGAc3SiNbIke3RDG
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863477176 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947850537 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2dO4AAAAAQAAAAEAAAAAAAAAAGKT4yfVYsRGr8qaLo6PS4Z6A0g6RGAc3SiNbIke3RDG
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863480227 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947853643 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2hAvAAAAAQAAAAEAAAAAAAAAACnxZh94VdhgeyWwQwwb7xNT9as85NoA59Ufsx5etcXA
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863483317 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947856705 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2hAvAAAAAQAAAAEAAAAAAAAAACnxZh94VdhgeyWwQwwb7xNT9as85NoA59Ufsx5etcXA
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863486376 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947859772 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2hAvAAAAAQAAAAEAAAAAAAAAACnxZh94VdhgeyWwQwwb7xNT9as85NoA59Ufsx5etcXA
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863489449 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947862832 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2hAvAAAAAQAAAAEAAAAAAAAAACnxZh94VdhgeyWwQwwb7xNT9as85NoA59Ufsx5etcXA
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863492496 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947865876 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2hAvAAAAAQAAAAEAAAAAAAAAACnxZh94VdhgeyWwQwwb7xNT9as85NoA59Ufsx5etcXA
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863495571 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947869020 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2kwVAAAAAQAAAAEAAAAAAAAAAEIkrq-2OFNb8BpDIWd_qe9Xz7drOlIDrCPdCkNyrnkK
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863498685 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947872204 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2kwVAAAAAQAAAAEAAAAAAAAAAEIkrq-2OFNb8BpDIWd_qe9Xz7drOlIDrCPdCkNyrnkK
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863501797 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947875245 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2kwVAAAAAQAAAAEAAAAAAAAAAEIkrq-2OFNb8BpDIWd_qe9Xz7drOlIDrCPdCkNyrnkK
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863504850 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947878329 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2kwVAAAAAQAAAAEAAAAAAAAAAEIkrq-2OFNb8BpDIWd_qe9Xz7drOlIDrCPdCkNyrnkK
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863507905 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947881412 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2kwVAAAAAQAAAAEAAAAAAAAAAEIkrq-2OFNb8BpDIWd_qe9Xz7drOlIDrCPdCkNyrnkK
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863510943 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947884486 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2ogdAAAAAQAAAAEAAAAAAAAAAPriTkrjndCjC5L1yPfdltIMpjXSbEG1c6kfmViUC7X9
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863514044 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947887584 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2ogdAAAAAQAAAAEAAAAAAAAAAPriTkrjndCjC5L1yPfdltIMpjXSbEG1c6kfmViUC7X9
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863517171 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947890660 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2ogdAAAAAQAAAAEAAAAAAAAAAPriTkrjndCjC5L1yPfdltIMpjXSbEG1c6kfmViUC7X9
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863520242 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947893766 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2ogdAAAAAQAAAAEAAAAAAAAAAPriTkrjndCjC5L1yPfdltIMpjXSbEG1c6kfmViUC7X9
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863523367 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947896862 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2ogdAAAAAQAAAAEAAAAAAAAAAPriTkrjndCjC5L1yPfdltIMpjXSbEG1c6kfmViUC7X9
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863526512 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947899929 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2sT_AAAAAQAAAAEAAAAAAAAAAIxgzp6oBikkZLARu2qJG7GO4iDS-S5BUda5Ut-mIiqT
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863529667 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947902982 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2sT_AAAAAQAAAAEAAAAAAAAAAIxgzp6oBikkZLARu2qJG7GO4iDS-S5BUda5Ut-mIiqT
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863532793 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947906042 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2sT_AAAAAQAAAAEAAAAAAAAAAIxgzp6oBikkZLARu2qJG7GO4iDS-S5BUda5Ut-mIiqT
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863535874 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947909107 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2sT_AAAAAQAAAAEAAAAAAAAAAIxgzp6oBikkZLARu2qJG7GO4iDS-S5BUda5Ut-mIiqT
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863538935 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947912178 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2sT_AAAAAQAAAAEAAAAAAAAAAIxgzp6oBikkZLARu2qJG7GO4iDS-S5BUda5Ut-mIiqT
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863542052 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947915336 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2wGzAAAAAQAAAAEAAAAAAAAAAHTZZ-UIXyrsO09ZF0CrnF3n41TE7_HloWikWEywVPiX
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863545301 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947918475 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2wGzAAAAAQAAAAEAAAAAAAAAAHTZZ-UIXyrsO09ZF0CrnF3n41TE7_HloWikWEywVPiX
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863548380 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947921581 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2wGzAAAAAQAAAAEAAAAAAAAAAHTZZ-UIXyrsO09ZF0CrnF3n41TE7_HloWikWEywVPiX
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863551481 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947924619 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2wGzAAAAAQAAAAEAAAAAAAAAAHTZZ-UIXyrsO09ZF0CrnF3n41TE7_HloWikWEywVPiX
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863554589 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947927672 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2wGzAAAAAQAAAAEAAAAAAAAAAHTZZ-UIXyrsO09ZF0CrnF3n41TE7_HloWikWEywVPiX
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863557690 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947930707 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2z7PAAAAAQAAAAEAAAAAAAAAAILkrRNJaOxDjeyDqaUMNRtp9ulpck4S-_nB9Jauakdl
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863560871 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947933766 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2z7PAAAAAQAAAAEAAAAAAAAAAILkrRNJaOxDjeyDqaUMNRtp9ulpck4S-_nB9Jauakdl
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863563945 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947936805 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2z7PAAAAAQAAAAEAAAAAAAAAAILkrRNJaOxDjeyDqaUMNRtp9ulpck4S-_nB9Jauakdl
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863567002 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947939844 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2z7PAAAAAQAAAAEAAAAAAAAAAILkrRNJaOxDjeyDqaUMNRtp9ulpck4S-_nB9Jauakdl
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863570079 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947942962 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2z7PAAAAAQAAAAEAAAAAAAAAAILkrRNJaOxDjeyDqaUMNRtp9ulpck4S-_nB9Jauakdl
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863573156 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947946016 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv23s6AAAAAQAAAAEAAAAAAAAAANcGv35FZPPBvd9aeug0-hyjYOU9DIv2BmdBEDAkmQlp
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863576314 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947949107 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv23s6AAAAAQAAAAEAAAAAAAAAANcGv35FZPPBvd9aeug0-hyjYOU9DIv2BmdBEDAkmQlp
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863579405 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947952145 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv23s6AAAAAQAAAAEAAAAAAAAAANcGv35FZPPBvd9aeug0-hyjYOU9DIv2BmdBEDAkmQlp
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863582780 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947955203 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv23s6AAAAAQAAAAEAAAAAAAAAANcGv35FZPPBvd9aeug0-hyjYOU9DIv2BmdBEDAkmQlp
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863585939 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947958266 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv23s6AAAAAQAAAAEAAAAAAAAAANcGv35FZPPBvd9aeug0-hyjYOU9DIv2BmdBEDAkmQlp
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863589002 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947961342 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv27kOAAAAAQAAAAEAAAAAAAAAAEwXcmxnily_0EXXrq0ANL0VGkYSv-o3SYiWAwsgM7-3
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863592087 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947964414 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv27kOAAAAAQAAAAEAAAAAAAAAAEwXcmxnily_0EXXrq0ANL0VGkYSv-o3SYiWAwsgM7-3
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863595140 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947967467 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv27kOAAAAAQAAAAEAAAAAAAAAAEwXcmxnily_0EXXrq0ANL0VGkYSv-o3SYiWAwsgM7-3
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863598175 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947970506 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv27kOAAAAAQAAAAEAAAAAAAAAAEwXcmxnily_0EXXrq0ANL0VGkYSv-o3SYiWAwsgM7-3
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863601293 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947973564 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv27kOAAAAAQAAAAEAAAAAAAAAAEwXcmxnily_0EXXrq0ANL0VGkYSv-o3SYiWAwsgM7-3
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863604398 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947976618 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2_UtAAAAAQAAAAEAAAAAAAAAAPqHcdSAKGdO4aOhRLRCGKVyDXFWG-Ofqk_S6yCPgNga
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863607581 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947979691 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2_UtAAAAAQAAAAEAAAAAAAAAAPqHcdSAKGdO4aOhRLRCGKVyDXFWG-Ofqk_S6yCPgNga
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863610633 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947982744 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2_UtAAAAAQAAAAEAAAAAAAAAAPqHcdSAKGdO4aOhRLRCGKVyDXFWG-Ofqk_S6yCPgNga
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863613687 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947985848 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2_UtAAAAAQAAAAEAAAAAAAAAAPqHcdSAKGdO4aOhRLRCGKVyDXFWG-Ofqk_S6yCPgNga
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863616833 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947988920 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv2_UtAAAAAQAAAAEAAAAAAAAAAPqHcdSAKGdO4aOhRLRCGKVyDXFWG-Ofqk_S6yCPgNga
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863619917 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947991990 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3DHOAAAAAQAAAAEAAAAAAAAAAIGYcNOeCzAPJPrOI2sS5yKgHILfSQV7ZWHbvTnpFavw
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863623032 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947995109 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3DHOAAAAAQAAAAEAAAAAAAAAAIGYcNOeCzAPJPrOI2sS5yKgHILfSQV7ZWHbvTnpFavw
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863626132 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719947998166 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3DHOAAAAAQAAAAEAAAAAAAAAAIGYcNOeCzAPJPrOI2sS5yKgHILfSQV7ZWHbvTnpFavw
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863629272 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948001297 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3DHOAAAAAQAAAAEAAAAAAAAAAIGYcNOeCzAPJPrOI2sS5yKgHILfSQV7ZWHbvTnpFavw
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863632386 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948004390 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3DHOAAAAAQAAAAEAAAAAAAAAAIGYcNOeCzAPJPrOI2sS5yKgHILfSQV7ZWHbvTnpFavw
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863635446 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948007551 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3G52AAAAAQAAAAEAAAAAAAAAAL9gH9kncTtJHYpBfmfmvzoquP62E0EgV3e301UFNG87
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863638523 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948010636 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3G52AAAAAQAAAAEAAAAAAAAAAL9gH9kncTtJHYpBfmfmvzoquP62E0EgV3e301UFNG87
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863641589 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948013683 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3G52AAAAAQAAAAEAAAAAAAAAAL9gH9kncTtJHYpBfmfmvzoquP62E0EgV3e301UFNG87
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863644679 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948016745 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3G52AAAAAQAAAAEAAAAAAAAAAL9gH9kncTtJHYpBfmfmvzoquP62E0EgV3e301UFNG87
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863647724 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948019846 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3G52AAAAAQAAAAEAAAAAAAAAAL9gH9kncTtJHYpBfmfmvzoquP62E0EgV3e301UFNG87
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863650777 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948022900 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3KpbAAAAAQAAAAEAAAAAAAAAAClQa4VXtZokbMxlz2fy5iuxGI_UVmBVtHthZfmCubnu
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863653949 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948026037 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3KpbAAAAAQAAAAEAAAAAAAAAAClQa4VXtZokbMxlz2fy5iuxGI_UVmBVtHthZfmCubnu
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863657102 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948029150 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3KpbAAAAAQAAAAEAAAAAAAAAAClQa4VXtZokbMxlz2fy5iuxGI_UVmBVtHthZfmCubnu
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863660172 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948032208 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3KpbAAAAAQAAAAEAAAAAAAAAAClQa4VXtZokbMxlz2fy5iuxGI_UVmBVtHthZfmCubnu
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863663237 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948035284 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3KpbAAAAAQAAAAEAAAAAAAAAAClQa4VXtZokbMxlz2fy5iuxGI_UVmBVtHthZfmCubnu
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863666304 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948038317 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3Ob-AAAAAQAAAAEAAAAAAAAAAM6v0Pdcf0Vy7vmnYw7G6c1sNhi_nwE4MRsKX7jKTfBn
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863669414 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948041398 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3Ob-AAAAAQAAAAEAAAAAAAAAAM6v0Pdcf0Vy7vmnYw7G6c1sNhi_nwE4MRsKX7jKTfBn
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863672457 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948044460 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3Ob-AAAAAQAAAAEAAAAAAAAAAM6v0Pdcf0Vy7vmnYw7G6c1sNhi_nwE4MRsKX7jKTfBn
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863675519 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948047518 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3Ob-AAAAAQAAAAEAAAAAAAAAAM6v0Pdcf0Vy7vmnYw7G6c1sNhi_nwE4MRsKX7jKTfBn
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863678628 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948050581 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3Ob-AAAAAQAAAAEAAAAAAAAAAM6v0Pdcf0Vy7vmnYw7G6c1sNhi_nwE4MRsKX7jKTfBn
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863681724 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948053672 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3SM_AAAAAQAAAAEAAAAAAAAAAAZW1wOBv2DkrygxE3ZgTsGH2D5Cd9-hKNB-uclDyYCu
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863684817 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948056777 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3SM_AAAAAQAAAAEAAAAAAAAAAAZW1wOBv2DkrygxE3ZgTsGH2D5Cd9-hKNB-uclDyYCu
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863687913 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948059826 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3SM_AAAAAQAAAAEAAAAAAAAAAAZW1wOBv2DkrygxE3ZgTsGH2D5Cd9-hKNB-uclDyYCu
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863691171 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948062866 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3SM_AAAAAQAAAAEAAAAAAAAAAAZW1wOBv2DkrygxE3ZgTsGH2D5Cd9-hKNB-uclDyYCu
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863694209 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948065935 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3SM_AAAAAQAAAAEAAAAAAAAAAAZW1wOBv2DkrygxE3ZgTsGH2D5Cd9-hKNB-uclDyYCu
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863697295 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948069000 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3WAaAAAAAQAAAAEAAAAAAAAAAFk12t_HT7J70MD8icmObY3UUz5hNKF09j_QQ67Cnqi6
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863700427 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948072086 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3WAaAAAAAQAAAAEAAAAAAAAAAFk12t_HT7J70MD8icmObY3UUz5hNKF09j_QQ67Cnqi6
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863703504 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948075131 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3WAaAAAAAQAAAAEAAAAAAAAAAFk12t_HT7J70MD8icmObY3UUz5hNKF09j_QQ67Cnqi6
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863706604 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948078185 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3WAaAAAAAQAAAAEAAAAAAAAAAFk12t_HT7J70MD8icmObY3UUz5hNKF09j_QQ67Cnqi6
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863709679 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948081296 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3WAaAAAAAQAAAAEAAAAAAAAAAFk12t_HT7J70MD8icmObY3UUz5hNKF09j_QQ67Cnqi6
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863712717 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948084335 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3ZxXAAAAAQAAAAEAAAAAAAAAAHl5g6eCfzrv316KJxbOiVzl-ia50CJyGeZvFTI1c96G
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863715843 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948087377 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3ZxXAAAAAQAAAAEAAAAAAAAAAHl5g6eCfzrv316KJxbOiVzl-ia50CJyGeZvFTI1c96G
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863718955 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948090439 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3ZxXAAAAAQAAAAEAAAAAAAAAAHl5g6eCfzrv316KJxbOiVzl-ia50CJyGeZvFTI1c96G
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863722022 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948093494 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3ZxXAAAAAQAAAAEAAAAAAAAAAHl5g6eCfzrv316KJxbOiVzl-ia50CJyGeZvFTI1c96G
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863725087 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948096553 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3ZxXAAAAAQAAAAEAAAAAAAAAAHl5g6eCfzrv316KJxbOiVzl-ia50CJyGeZvFTI1c96G
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863728201 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948099607 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3djHAAAAAQAAAAEAAAAAAAAAANHAt_Qd-qTTXDTlUidTqtD8GySh5ORtp2faE5nYp9E7
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863731293 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948102672 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3djHAAAAAQAAAAEAAAAAAAAAANHAt_Qd-qTTXDTlUidTqtD8GySh5ORtp2faE5nYp9E7
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863734328 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948105719 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3djHAAAAAQAAAAEAAAAAAAAAANHAt_Qd-qTTXDTlUidTqtD8GySh5ORtp2faE5nYp9E7
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863737378 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948108780 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3djHAAAAAQAAAAEAAAAAAAAAANHAt_Qd-qTTXDTlUidTqtD8GySh5ORtp2faE5nYp9E7
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863740438 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948111829 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3djHAAAAAQAAAAEAAAAAAAAAANHAt_Qd-qTTXDTlUidTqtD8GySh5ORtp2faE5nYp9E7
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863743597 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948114871 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3hT1AAAAAQAAAAEAAAAAAAAAANZ91S5RpJf-Pf8B2rpe0Z0zIWHfILO0zK3u_Sw110zZ
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863746770 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948117947 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3hT1AAAAAQAAAAEAAAAAAAAAANZ91S5RpJf-Pf8B2rpe0Z0zIWHfILO0zK3u_Sw110zZ
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863749867 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948121063 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3hT1AAAAAQAAAAEAAAAAAAAAANZ91S5RpJf-Pf8B2rpe0Z0zIWHfILO0zK3u_Sw110zZ
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863752922 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948124144 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3hT1AAAAAQAAAAEAAAAAAAAAANZ91S5RpJf-Pf8B2rpe0Z0zIWHfILO0zK3u_Sw110zZ
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863756013 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948127248 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3hT1AAAAAQAAAAEAAAAAAAAAANZ91S5RpJf-Pf8B2rpe0Z0zIWHfILO0zK3u_Sw110zZ
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863759116 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948130321 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3lGQAAAAAQAAAAEAAAAAAAAAAOUD4VL90K-YrCxRjX83twzsd2PqHwiqWiM-o21RHKHE
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863762278 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948133380 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3lGQAAAAAQAAAAEAAAAAAAAAAOUD4VL90K-YrCxRjX83twzsd2PqHwiqWiM-o21RHKHE
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863765398 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948136420 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3lGQAAAAAQAAAAEAAAAAAAAAAOUD4VL90K-YrCxRjX83twzsd2PqHwiqWiM-o21RHKHE
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863768438 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948139472 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3lGQAAAAAQAAAAEAAAAAAAAAAOUD4VL90K-YrCxRjX83twzsd2PqHwiqWiM-o21RHKHE
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863771536 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948142527 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3lGQAAAAAQAAAAEAAAAAAAAAAOUD4VL90K-YrCxRjX83twzsd2PqHwiqWiM-o21RHKHE
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863774597 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948145644 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3o4KAAAAAQAAAAEAAAAAAAAAAGi0E_iBZthST7zjHP0Lv2zwC6TbVYUYbqnU2N6gyUb9
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863777678 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948148746 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3o4KAAAAAQAAAAEAAAAAAAAAAGi0E_iBZthST7zjHP0Lv2zwC6TbVYUYbqnU2N6gyUb9
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863780728 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948151799 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3o4KAAAAAQAAAAEAAAAAAAAAAGi0E_iBZthST7zjHP0Lv2zwC6TbVYUYbqnU2N6gyUb9
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863783935 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948154872 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3o4KAAAAAQAAAAEAAAAAAAAAAGi0E_iBZthST7zjHP0Lv2zwC6TbVYUYbqnU2N6gyUb9
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863786988 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948157926 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3o4KAAAAAQAAAAEAAAAAAAAAAGi0E_iBZthST7zjHP0Lv2zwC6TbVYUYbqnU2N6gyUb9
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863790109 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948160982 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3srHAAAAAQAAAAEAAAAAAAAAAGtl85AC0fgsvPrxG6gZMQhcDw7mCk7H5bbEVEgG4mKO
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863793291 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948164087 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3srHAAAAAQAAAAEAAAAAAAAAAGtl85AC0fgsvPrxG6gZMQhcDw7mCk7H5bbEVEgG4mKO
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863796357 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948167144 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3srHAAAAAQAAAAEAAAAAAAAAAGtl85AC0fgsvPrxG6gZMQhcDw7mCk7H5bbEVEgG4mKO
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863799487 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948170241 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3srHAAAAAQAAAAEAAAAAAAAAAGtl85AC0fgsvPrxG6gZMQhcDw7mCk7H5bbEVEgG4mKO
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863802566 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948173307 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3srHAAAAAQAAAAEAAAAAAAAAAGtl85AC0fgsvPrxG6gZMQhcDw7mCk7H5bbEVEgG4mKO
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863805641 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948176365 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3wdaAAAAAQAAAAEAAAAAAAAAAEx009ZkUZIO6i_ZRuIn7BwxcolGcBFssxQv4_Qby3PO
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863808737 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948179477 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3wdaAAAAAQAAAAEAAAAAAAAAAEx009ZkUZIO6i_ZRuIn7BwxcolGcBFssxQv4_Qby3PO
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863811838 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948182589 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3wdaAAAAAQAAAAEAAAAAAAAAAEx009ZkUZIO6i_ZRuIn7BwxcolGcBFssxQv4_Qby3PO
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863814922 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948185648 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3wdaAAAAAQAAAAEAAAAAAAAAAEx009ZkUZIO6i_ZRuIn7BwxcolGcBFssxQv4_Qby3PO
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863817975 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948188713 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3wdaAAAAAQAAAAEAAAAAAAAAAEx009ZkUZIO6i_ZRuIn7BwxcolGcBFssxQv4_Qby3PO
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863821076 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948191775 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv30OdAAAAAQAAAAEAAAAAAAAAAMoJxMw0cs8mHvUSF31oM_c3DB1Jeos98kqQw7urR7yU
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863824192 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948194864 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv30OdAAAAAQAAAAEAAAAAAAAAAMoJxMw0cs8mHvUSF31oM_c3DB1Jeos98kqQw7urR7yU
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863827242 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948197991 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv30OdAAAAAQAAAAEAAAAAAAAAAMoJxMw0cs8mHvUSF31oM_c3DB1Jeos98kqQw7urR7yU
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863830283 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948201096 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv30OdAAAAAQAAAAEAAAAAAAAAAMoJxMw0cs8mHvUSF31oM_c3DB1Jeos98kqQw7urR7yU
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863833358 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948204146 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv30OdAAAAAQAAAAEAAAAAAAAAAMoJxMw0cs8mHvUSF31oM_c3DB1Jeos98kqQw7urR7yU
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863836479 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948207203 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv33_DAAAAAQAAAAEAAAAAAAAAABegctPSwnutd2uIXheY0ezoq2xZwNCbCT8-tJt5pwby
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863839697 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948210309 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv33_DAAAAAQAAAAEAAAAAAAAAABegctPSwnutd2uIXheY0ezoq2xZwNCbCT8-tJt5pwby
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863842807 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948213452 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv33_DAAAAAQAAAAEAAAAAAAAAABegctPSwnutd2uIXheY0ezoq2xZwNCbCT8-tJt5pwby
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863845863 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948216492 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv33_DAAAAAQAAAAEAAAAAAAAAABegctPSwnutd2uIXheY0ezoq2xZwNCbCT8-tJt5pwby
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863848923 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948219578 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv33_DAAAAAQAAAAEAAAAAAAAAABegctPSwnutd2uIXheY0ezoq2xZwNCbCT8-tJt5pwby
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863851997 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948222639 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv37xiAAAAAQAAAAEAAAAAAAAAAMNtpy9rV8SR2ojSUyFOpS4R130WbsYTAzMr2yxVs3T-
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863855100 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948225687 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv37xiAAAAAQAAAAEAAAAAAAAAAMNtpy9rV8SR2ojSUyFOpS4R130WbsYTAzMr2yxVs3T-
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863858187 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948228793 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv37xiAAAAAQAAAAEAAAAAAAAAAMNtpy9rV8SR2ojSUyFOpS4R130WbsYTAzMr2yxVs3T-
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863861265 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948231871 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv37xiAAAAAQAAAAEAAAAAAAAAAMNtpy9rV8SR2ojSUyFOpS4R130WbsYTAzMr2yxVs3T-
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863864348 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948234915 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv37xiAAAAAQAAAAEAAAAAAAAAAMNtpy9rV8SR2ojSUyFOpS4R130WbsYTAzMr2yxVs3T-
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863867438 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948237964 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3_iyAAAAAQAAAAEAAAAAAAAAANUS-2sPeAb1Ssp1sqf0N4mqJEYDL7PZ6PhTa2OHs0sF
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863870573 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948241076 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3_iyAAAAAQAAAAEAAAAAAAAAANUS-2sPeAb1Ssp1sqf0N4mqJEYDL7PZ6PhTa2OHs0sF
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863873650 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948244210 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3_iyAAAAAQAAAAEAAAAAAAAAANUS-2sPeAb1Ssp1sqf0N4mqJEYDL7PZ6PhTa2OHs0sF
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863876703 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948247270 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3_iyAAAAAQAAAAEAAAAAAAAAANUS-2sPeAb1Ssp1sqf0N4mqJEYDL7PZ6PhTa2OHs0sF
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863879821 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948250319 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv3_iyAAAAAQAAAAEAAAAAAAAAANUS-2sPeAb1Ssp1sqf0N4mqJEYDL7PZ6PhTa2OHs0sF
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863882958 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948253380 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4DVoAAAAAQAAAAEAAAAAAAAAAAnUKyNveZUvLHQVZmO78qsQWGuqft7s7Y1hfNIOoPd9
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863886101 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948256469 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4DVoAAAAAQAAAAEAAAAAAAAAAAnUKyNveZUvLHQVZmO78qsQWGuqft7s7Y1hfNIOoPd9
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863889184 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948259531 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4DVoAAAAAQAAAAEAAAAAAAAAAAnUKyNveZUvLHQVZmO78qsQWGuqft7s7Y1hfNIOoPd9
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863892373 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948262608 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4DVoAAAAAQAAAAEAAAAAAAAAAAnUKyNveZUvLHQVZmO78qsQWGuqft7s7Y1hfNIOoPd9
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863895440 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948265661 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4DVoAAAAAQAAAAEAAAAAAAAAAAnUKyNveZUvLHQVZmO78qsQWGuqft7s7Y1hfNIOoPd9
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863898494 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948268750 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4HIDAAAAAQAAAAEAAAAAAAAAAE2UXfqqD_6xlEP4wYY8lSzmhopwQ-WDZqZ0WEu8jdV2
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863901587 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948271846 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4HIDAAAAAQAAAAEAAAAAAAAAAE2UXfqqD_6xlEP4wYY8lSzmhopwQ-WDZqZ0WEu8jdV2
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863904765 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948274910 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4HIDAAAAAQAAAAEAAAAAAAAAAE2UXfqqD_6xlEP4wYY8lSzmhopwQ-WDZqZ0WEu8jdV2
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863907823 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948277947 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4HIDAAAAAQAAAAEAAAAAAAAAAE2UXfqqD_6xlEP4wYY8lSzmhopwQ-WDZqZ0WEu8jdV2
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863910878 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948281005 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4HIDAAAAAQAAAAEAAAAAAAAAAE2UXfqqD_6xlEP4wYY8lSzmhopwQ-WDZqZ0WEu8jdV2
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863913929 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948284042 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4K5JAAAAAQAAAAEAAAAAAAAAAIMh_9iSCW2uGf7igEA9iJlSWTJKgxO5ia6i6N4N14oM
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863916995 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948287215 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4K5JAAAAAQAAAAEAAAAAAAAAAIMh_9iSCW2uGf7igEA9iJlSWTJKgxO5ia6i6N4N14oM
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863920064 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948290270 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4K5JAAAAAQAAAAEAAAAAAAAAAIMh_9iSCW2uGf7igEA9iJlSWTJKgxO5ia6i6N4N14oM
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863923193 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948293367 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4K5JAAAAAQAAAAEAAAAAAAAAAIMh_9iSCW2uGf7igEA9iJlSWTJKgxO5ia6i6N4N14oM
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863926274 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948296417 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4K5JAAAAAQAAAAEAAAAAAAAAAIMh_9iSCW2uGf7igEA9iJlSWTJKgxO5ia6i6N4N14oM
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863929377 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948299466 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4OrLAAAAAQAAAAEAAAAAAAAAAFZ9l_2DSP3mh4Keaw94YT_6BU1Y7XQ7C0gO4INMBE6n
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863932534 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948302560 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4OrLAAAAAQAAAAEAAAAAAAAAAFZ9l_2DSP3mh4Keaw94YT_6BU1Y7XQ7C0gO4INMBE6n
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863935606 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948305673 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4OrLAAAAAQAAAAEAAAAAAAAAAFZ9l_2DSP3mh4Keaw94YT_6BU1Y7XQ7C0gO4INMBE6n
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863938679 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948308733 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4OrLAAAAAQAAAAEAAAAAAAAAAFZ9l_2DSP3mh4Keaw94YT_6BU1Y7XQ7C0gO4INMBE6n
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863941790 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948311785 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4OrLAAAAAQAAAAEAAAAAAAAAAFZ9l_2DSP3mh4Keaw94YT_6BU1Y7XQ7C0gO4INMBE6n
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863944882 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948314871 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4SdIAAAAAQAAAAEAAAAAAAAAABbpcV93MO31oDUv2QDZVHshPtjlKGKV4FGhWp3UXlu6
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863948067 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948317952 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4SdIAAAAAQAAAAEAAAAAAAAAABbpcV93MO31oDUv2QDZVHshPtjlKGKV4FGhWp3UXlu6
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863951233 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948321004 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4SdIAAAAAQAAAAEAAAAAAAAAABbpcV93MO31oDUv2QDZVHshPtjlKGKV4FGhWp3UXlu6
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863954302 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948324075 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4SdIAAAAAQAAAAEAAAAAAAAAABbpcV93MO31oDUv2QDZVHshPtjlKGKV4FGhWp3UXlu6
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863957368 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948327117 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4SdIAAAAAQAAAAEAAAAAAAAAABbpcV93MO31oDUv2QDZVHshPtjlKGKV4FGhWp3UXlu6
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863960470 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948330200 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4WQgAAAAAQAAAAEAAAAAAAAAAPtv4Dc4d3Gdw324gDXbi96TwSxPgoFTD8ElaND7F332
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863963604 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948333269 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4WQgAAAAAQAAAAEAAAAAAAAAAPtv4Dc4d3Gdw324gDXbi96TwSxPgoFTD8ElaND7F332
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863966664 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948336559 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4WQgAAAAAQAAAAEAAAAAAAAAAPtv4Dc4d3Gdw324gDXbi96TwSxPgoFTD8ElaND7F332
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863969725 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948339624 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4WQgAAAAAQAAAAEAAAAAAAAAAPtv4Dc4d3Gdw324gDXbi96TwSxPgoFTD8ElaND7F332
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863972813 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948342690 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4WQgAAAAAQAAAAEAAAAAAAAAAPtv4Dc4d3Gdw324gDXbi96TwSxPgoFTD8ElaND7F332
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863975861 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948345739 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4aA4AAAAAQAAAAEAAAAAAAAAAFTpc2-mhWHlQt5eqXPnAIdSkvcizIG3y7UUCLMbMX-G
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863978993 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948348800 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4aA4AAAAAQAAAAEAAAAAAAAAAFTpc2-mhWHlQt5eqXPnAIdSkvcizIG3y7UUCLMbMX-G
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863982068 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948351844 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4aA4AAAAAQAAAAEAAAAAAAAAAFTpc2-mhWHlQt5eqXPnAIdSkvcizIG3y7UUCLMbMX-G
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863985136 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948354886 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4aA4AAAAAQAAAAEAAAAAAAAAAFTpc2-mhWHlQt5eqXPnAIdSkvcizIG3y7UUCLMbMX-G
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863988202 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948357983 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4aA4AAAAAQAAAAEAAAAAAAAAAFTpc2-mhWHlQt5eqXPnAIdSkvcizIG3y7UUCLMbMX-G
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863991281 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948361071 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4dx4AAAAAQAAAAEAAAAAAAAAAEndQhFcCTkDRaHcAJb_qjKyzjh9LDqbT7g0uMrgYdVs
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863994415 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948364121 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4dx4AAAAAQAAAAEAAAAAAAAAAEndQhFcCTkDRaHcAJb_qjKyzjh9LDqbT7g0uMrgYdVs
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719863997580 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948367219 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4dx4AAAAAQAAAAEAAAAAAAAAAEndQhFcCTkDRaHcAJb_qjKyzjh9LDqbT7g0uMrgYdVs
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864000671 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948370294 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4dx4AAAAAQAAAAEAAAAAAAAAAEndQhFcCTkDRaHcAJb_qjKyzjh9LDqbT7g0uMrgYdVs
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864003763 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948373342 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4dx4AAAAAQAAAAEAAAAAAAAAAEndQhFcCTkDRaHcAJb_qjKyzjh9LDqbT7g0uMrgYdVs
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864007040 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948376391 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4hoiAAAAAQAAAAEAAAAAAAAAAKX0bmVkyNqJQrBsi866GnTmPxpJkOflndMx0s5FQu5o
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864010198 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948379499 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4hoiAAAAAQAAAAEAAAAAAAAAAKX0bmVkyNqJQrBsi866GnTmPxpJkOflndMx0s5FQu5o
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864013392 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948382571 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4hoiAAAAAQAAAAEAAAAAAAAAAKX0bmVkyNqJQrBsi866GnTmPxpJkOflndMx0s5FQu5o
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864016472 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948385655 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4hoiAAAAAQAAAAEAAAAAAAAAAKX0bmVkyNqJQrBsi866GnTmPxpJkOflndMx0s5FQu5o
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864019675 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948388748 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4hoiAAAAAQAAAAEAAAAAAAAAAKX0bmVkyNqJQrBsi866GnTmPxpJkOflndMx0s5FQu5o
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864022786 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948391806 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4leJAAAAAQAAAAEAAAAAAAAAABSEEmwG8ai-23K3I9Zy177ei3qHYqxJrxPc7QXv_Cev
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864025904 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948394868 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4leJAAAAAQAAAAEAAAAAAAAAABSEEmwG8ai-23K3I9Zy177ei3qHYqxJrxPc7QXv_Cev
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864029023 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948397904 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4leJAAAAAQAAAAEAAAAAAAAAABSEEmwG8ai-23K3I9Zy177ei3qHYqxJrxPc7QXv_Cev
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864032090 tunnel running, 1 tunnels registered
+[2J8[0mplayit (v0.15.13): 1719948400955 tunnel running, 3 tunnels registered
 
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4leJAAAAAQAAAAEAAAAAAAAAABSEEmwG8ai-23K3I9Zy177ei3qHYqxJrxPc7QXv_Cev
+Email not verified https://playit.gg/account/settings/account/verify-email
 
 TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864035153 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4leJAAAAAQAAAAEAAAAAAAAAABSEEmwG8ai-23K3I9Zy177ei3qHYqxJrxPc7QXv_Cev
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864038328 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4pRbAAAAAQAAAAEAAAAAAAAAAKu5v3N-Fz6wPRwcRDRz4MMxc-DPwAw40SeMTm-iVJwl
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864041448 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4pRbAAAAAQAAAAEAAAAAAAAAAKu5v3N-Fz6wPRwcRDRz4MMxc-DPwAw40SeMTm-iVJwl
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864044618 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4pRbAAAAAQAAAAEAAAAAAAAAAKu5v3N-Fz6wPRwcRDRz4MMxc-DPwAw40SeMTm-iVJwl
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864047870 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4pRbAAAAAQAAAAEAAAAAAAAAAKu5v3N-Fz6wPRwcRDRz4MMxc-DPwAw40SeMTm-iVJwl
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864052921 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4pRbAAAAAQAAAAEAAAAAAAAAAKu5v3N-Fz6wPRwcRDRz4MMxc-DPwAw40SeMTm-iVJwl
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864056058 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4tmeAAAAAQAAAAEAAAAAAAAAAAy2MX8E-vmlNbUlgauMP74VoJpNiRCERXeBsl7ojZIY
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864059255 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4tmeAAAAAQAAAAEAAAAAAAAAAAy2MX8E-vmlNbUlgauMP74VoJpNiRCERXeBsl7ojZIY
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864062388 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4tmeAAAAAQAAAAEAAAAAAAAAAAy2MX8E-vmlNbUlgauMP74VoJpNiRCERXeBsl7ojZIY
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864065485 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4tmeAAAAAQAAAAEAAAAAAAAAAAy2MX8E-vmlNbUlgauMP74VoJpNiRCERXeBsl7ojZIY
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864068719 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4tmeAAAAAQAAAAEAAAAAAAAAAAy2MX8E-vmlNbUlgauMP74VoJpNiRCERXeBsl7ojZIY
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864071821 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4xcYAAAAAQAAAAEAAAAAAAAAAKDVdp0aOMu_QWOK81qif6vmXAaMbOV7MlN-kSnnND1J
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864074910 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4xcYAAAAAQAAAAEAAAAAAAAAAKDVdp0aOMu_QWOK81qif6vmXAaMbOV7MlN-kSnnND1J
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864078019 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4xcYAAAAAQAAAAEAAAAAAAAAAKDVdp0aOMu_QWOK81qif6vmXAaMbOV7MlN-kSnnND1J
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864081111 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4xcYAAAAAQAAAAEAAAAAAAAAAKDVdp0aOMu_QWOK81qif6vmXAaMbOV7MlN-kSnnND1J
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864084200 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv4xcYAAAAAQAAAAEAAAAAAAAAAKDVdp0aOMu_QWOK81qif6vmXAaMbOV7MlN-kSnnND1J
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864087272 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv41NzAAAAAQAAAAEAAAAAAAAAAOmRNmE_bFxgeOwf2MehdSGmggsax8gQy4iro1UssVPJ
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864090481 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv41NzAAAAAQAAAAEAAAAAAAAAAOmRNmE_bFxgeOwf2MehdSGmggsax8gQy4iro1UssVPJ
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864093548 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv41NzAAAAAQAAAAEAAAAAAAAAAOmRNmE_bFxgeOwf2MehdSGmggsax8gQy4iro1UssVPJ
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864096619 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv41NzAAAAAQAAAAEAAAAAAAAAAOmRNmE_bFxgeOwf2MehdSGmggsax8gQy4iro1UssVPJ
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864099703 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv41NzAAAAAQAAAAEAAAAAAAAAAOmRNmE_bFxgeOwf2MehdSGmggsax8gQy4iro1UssVPJ
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864102742 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv44_hAAAAAQAAAAEAAAAAAAAAAMPE7ghGQlEEaXbaF2BWrUJYwNWsgDMpsZDmvJ28rkEr
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864105825 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv44_hAAAAAQAAAAEAAAAAAAAAAMPE7ghGQlEEaXbaF2BWrUJYwNWsgDMpsZDmvJ28rkEr
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864108906 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv44_hAAAAAQAAAAEAAAAAAAAAAMPE7ghGQlEEaXbaF2BWrUJYwNWsgDMpsZDmvJ28rkEr
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864111953 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv44_hAAAAAQAAAAEAAAAAAAAAAMPE7ghGQlEEaXbaF2BWrUJYwNWsgDMpsZDmvJ28rkEr
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864115091 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv44_hAAAAAQAAAAEAAAAAAAAAAMPE7ghGQlEEaXbaF2BWrUJYwNWsgDMpsZDmvJ28rkEr
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864118169 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv48wiAAAAAQAAAAEAAAAAAAAAAPDb3C6811DbpocUh-OJAYmGlk6sZv0gWVk94tuRfDdV
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864121290 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv48wiAAAAAQAAAAEAAAAAAAAAAPDb3C6811DbpocUh-OJAYmGlk6sZv0gWVk94tuRfDdV
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864124350 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv48wiAAAAAQAAAAEAAAAAAAAAAPDb3C6811DbpocUh-OJAYmGlk6sZv0gWVk94tuRfDdV
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864127411 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv48wiAAAAAQAAAAEAAAAAAAAAAPDb3C6811DbpocUh-OJAYmGlk6sZv0gWVk94tuRfDdV
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864130554 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv48wiAAAAAQAAAAEAAAAAAAAAAPDb3C6811DbpocUh-OJAYmGlk6sZv0gWVk94tuRfDdV
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864133621 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5Ah6AAAAAQAAAAEAAAAAAAAAAENmCjLzZA_O64nT0urOtX-0lZF8zGHn3zcJ9R_25enB
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864136786 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5Ah6AAAAAQAAAAEAAAAAAAAAAENmCjLzZA_O64nT0urOtX-0lZF8zGHn3zcJ9R_25enB
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864139833 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5Ah6AAAAAQAAAAEAAAAAAAAAAENmCjLzZA_O64nT0urOtX-0lZF8zGHn3zcJ9R_25enB
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864142913 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5Ah6AAAAAQAAAAEAAAAAAAAAAENmCjLzZA_O64nT0urOtX-0lZF8zGHn3zcJ9R_25enB
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864145961 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5Ah6AAAAAQAAAAEAAAAAAAAAAENmCjLzZA_O64nT0urOtX-0lZF8zGHn3zcJ9R_25enB
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864149001 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5ESPAAAAAQAAAAEAAAAAAAAAAAwagyGhsc4ocjqfYhuBszeHeAJxe-iQd_Wknfrn0dTY
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864152186 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5ESPAAAAAQAAAAEAAAAAAAAAAAwagyGhsc4ocjqfYhuBszeHeAJxe-iQd_Wknfrn0dTY
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864155289 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5ESPAAAAAQAAAAEAAAAAAAAAAAwagyGhsc4ocjqfYhuBszeHeAJxe-iQd_Wknfrn0dTY
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864158350 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5ESPAAAAAQAAAAEAAAAAAAAAAAwagyGhsc4ocjqfYhuBszeHeAJxe-iQd_Wknfrn0dTY
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864161473 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5ESPAAAAAQAAAAEAAAAAAAAAAAwagyGhsc4ocjqfYhuBszeHeAJxe-iQd_Wknfrn0dTY
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864164570 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5IFwAAAAAQAAAAEAAAAAAAAAAHAtL3FbyHD2QRMlAujoFvq4WIEG6SmiVEl2j57btrA3
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864167685 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5IFwAAAAAQAAAAEAAAAAAAAAAHAtL3FbyHD2QRMlAujoFvq4WIEG6SmiVEl2j57btrA3
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864170769 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5IFwAAAAAQAAAAEAAAAAAAAAAHAtL3FbyHD2QRMlAujoFvq4WIEG6SmiVEl2j57btrA3
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864173846 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5IFwAAAAAQAAAAEAAAAAAAAAAHAtL3FbyHD2QRMlAujoFvq4WIEG6SmiVEl2j57btrA3
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864176901 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5IFwAAAAAQAAAAEAAAAAAAAAAHAtL3FbyHD2QRMlAujoFvq4WIEG6SmiVEl2j57btrA3
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864180022 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5L3WAAAAAQAAAAEAAAAAAAAAAIEQSbU_H4ZPYbSf13nQi535AKmS3kDAWThNJDJ4_Yni
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864183258 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5L3WAAAAAQAAAAEAAAAAAAAAAIEQSbU_H4ZPYbSf13nQi535AKmS3kDAWThNJDJ4_Yni
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864186307 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5L3WAAAAAQAAAAEAAAAAAAAAAIEQSbU_H4ZPYbSf13nQi535AKmS3kDAWThNJDJ4_Yni
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864189465 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5L3WAAAAAQAAAAEAAAAAAAAAAIEQSbU_H4ZPYbSf13nQi535AKmS3kDAWThNJDJ4_Yni
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864192545 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5L3WAAAAAQAAAAEAAAAAAAAAAIEQSbU_H4ZPYbSf13nQi535AKmS3kDAWThNJDJ4_Yni
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864195629 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5PrBAAAAAQAAAAEAAAAAAAAAADdSAq5mCBp4hBY7VUjXBs1KARHU6-yuCrVAtUi6W2YO
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864198713 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5PrBAAAAAQAAAAEAAAAAAAAAADdSAq5mCBp4hBY7VUjXBs1KARHU6-yuCrVAtUi6W2YO
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864201778 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5PrBAAAAAQAAAAEAAAAAAAAAADdSAq5mCBp4hBY7VUjXBs1KARHU6-yuCrVAtUi6W2YO
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864204835 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5PrBAAAAAQAAAAEAAAAAAAAAADdSAq5mCBp4hBY7VUjXBs1KARHU6-yuCrVAtUi6W2YO
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864207954 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5PrBAAAAAQAAAAEAAAAAAAAAADdSAq5mCBp4hBY7VUjXBs1KARHU6-yuCrVAtUi6W2YO
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864211064 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5TcCAAAAAQAAAAEAAAAAAAAAADJn1QF2fMS6jE-UgAsCEAnJLEs4vbjGCWwcF7ECKfdD
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864214196 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5TcCAAAAAQAAAAEAAAAAAAAAADJn1QF2fMS6jE-UgAsCEAnJLEs4vbjGCWwcF7ECKfdD
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864217266 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5TcCAAAAAQAAAAEAAAAAAAAAADJn1QF2fMS6jE-UgAsCEAnJLEs4vbjGCWwcF7ECKfdD
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864220417 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5TcCAAAAAQAAAAEAAAAAAAAAADJn1QF2fMS6jE-UgAsCEAnJLEs4vbjGCWwcF7ECKfdD
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864223454 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5TcCAAAAAQAAAAEAAAAAAAAAADJn1QF2fMS6jE-UgAsCEAnJLEs4vbjGCWwcF7ECKfdD
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864226591 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5XOsAAAAAQAAAAEAAAAAAAAAAJFnRvkOxeXMx1rLn8zRJjM3UrZnr9CfWJktLgo0mb4S
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864229680 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5XOsAAAAAQAAAAEAAAAAAAAAAJFnRvkOxeXMx1rLn8zRJjM3UrZnr9CfWJktLgo0mb4S
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864232745 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5XOsAAAAAQAAAAEAAAAAAAAAAJFnRvkOxeXMx1rLn8zRJjM3UrZnr9CfWJktLgo0mb4S
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864235853 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5XOsAAAAAQAAAAEAAAAAAAAAAJFnRvkOxeXMx1rLn8zRJjM3UrZnr9CfWJktLgo0mb4S
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864238925 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5XOsAAAAAQAAAAEAAAAAAAAAAJFnRvkOxeXMx1rLn8zRJjM3UrZnr9CfWJktLgo0mb4S
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864242028 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5bADAAAAAQAAAAEAAAAAAAAAAI77KSFFYImI3yqQsZXHs1agmScm4QIYk6s00Uj2Qvlk
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864245183 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5bADAAAAAQAAAAEAAAAAAAAAAI77KSFFYImI3yqQsZXHs1agmScm4QIYk6s00Uj2Qvlk
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864248247 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5bADAAAAAQAAAAEAAAAAAAAAAI77KSFFYImI3yqQsZXHs1agmScm4QIYk6s00Uj2Qvlk
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864251309 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5bADAAAAAQAAAAEAAAAAAAAAAI77KSFFYImI3yqQsZXHs1agmScm4QIYk6s00Uj2Qvlk
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864254367 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5bADAAAAAQAAAAEAAAAAAAAAAI77KSFFYImI3yqQsZXHs1agmScm4QIYk6s00Uj2Qvlk
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864257474 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5excAAAAAQAAAAEAAAAAAAAAABD5XCW4IuffcDi-6PUVHMCZsYr8j7-Ore6Ro-xaJtZe
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864260600 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5excAAAAAQAAAAEAAAAAAAAAABD5XCW4IuffcDi-6PUVHMCZsYr8j7-Ore6Ro-xaJtZe
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864263674 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5excAAAAAQAAAAEAAAAAAAAAABD5XCW4IuffcDi-6PUVHMCZsYr8j7-Ore6Ro-xaJtZe
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864266753 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5excAAAAAQAAAAEAAAAAAAAAABD5XCW4IuffcDi-6PUVHMCZsYr8j7-Ore6Ro-xaJtZe
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864269813 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5excAAAAAQAAAAEAAAAAAAAAABD5XCW4IuffcDi-6PUVHMCZsYr8j7-Ore6Ro-xaJtZe
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864272871 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5iiBAAAAAQAAAAEAAAAAAAAAADmg5xbVdJr1f59bOE3-M_kDB1rJCYZ7-Ha3QVqGNd2O
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864276035 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5iiBAAAAAQAAAAEAAAAAAAAAADmg5xbVdJr1f59bOE3-M_kDB1rJCYZ7-Ha3QVqGNd2O
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864279076 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5iiBAAAAAQAAAAEAAAAAAAAAADmg5xbVdJr1f59bOE3-M_kDB1rJCYZ7-Ha3QVqGNd2O
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864282165 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5iiBAAAAAQAAAAEAAAAAAAAAADmg5xbVdJr1f59bOE3-M_kDB1rJCYZ7-Ha3QVqGNd2O
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864285274 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5iiBAAAAAQAAAAEAAAAAAAAAADmg5xbVdJr1f59bOE3-M_kDB1rJCYZ7-Ha3QVqGNd2O
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864288334 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5mTtAAAAAQAAAAEAAAAAAAAAAPrbpafQzBdwU0DEVyZApZ50Lx1KfF8tL7Ms-cp6sX46
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864291468 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5mTtAAAAAQAAAAEAAAAAAAAAAPrbpafQzBdwU0DEVyZApZ50Lx1KfF8tL7Ms-cp6sX46
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864294512 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5mTtAAAAAQAAAAEAAAAAAAAAAPrbpafQzBdwU0DEVyZApZ50Lx1KfF8tL7Ms-cp6sX46
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864297569 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5mTtAAAAAQAAAAEAAAAAAAAAAPrbpafQzBdwU0DEVyZApZ50Lx1KfF8tL7Ms-cp6sX46
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864300649 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5mTtAAAAAQAAAAEAAAAAAAAAAPrbpafQzBdwU0DEVyZApZ50Lx1KfF8tL7Ms-cp6sX46
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864303736 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5qEYAAAAAQAAAAEAAAAAAAAAAIwJxjzyzAkqQfh345VVLnqyeOfS2LknecZq4BrFwgfu
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864306902 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5qEYAAAAAQAAAAEAAAAAAAAAAIwJxjzyzAkqQfh345VVLnqyeOfS2LknecZq4BrFwgfu
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864310017 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5qEYAAAAAQAAAAEAAAAAAAAAAIwJxjzyzAkqQfh345VVLnqyeOfS2LknecZq4BrFwgfu
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864313062 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5qEYAAAAAQAAAAEAAAAAAAAAAIwJxjzyzAkqQfh345VVLnqyeOfS2LknecZq4BrFwgfu
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864316136 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5qEYAAAAAQAAAAEAAAAAAAAAAIwJxjzyzAkqQfh345VVLnqyeOfS2LknecZq4BrFwgfu
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864319202 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5t1yAAAAAQAAAAEAAAAAAAAAAB4JNk0Wyp_7B98oDaX_cpvihEboEUet44sHLTHZKWGD
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864322311 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5t1yAAAAAQAAAAEAAAAAAAAAAB4JNk0Wyp_7B98oDaX_cpvihEboEUet44sHLTHZKWGD
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864325446 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5t1yAAAAAQAAAAEAAAAAAAAAAB4JNk0Wyp_7B98oDaX_cpvihEboEUet44sHLTHZKWGD
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864328519 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5t1yAAAAAQAAAAEAAAAAAAAAAB4JNk0Wyp_7B98oDaX_cpvihEboEUet44sHLTHZKWGD
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864331608 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5t1yAAAAAQAAAAEAAAAAAAAAAB4JNk0Wyp_7B98oDaX_cpvihEboEUet44sHLTHZKWGD
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864334683 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5xn1AAAAAQAAAAEAAAAAAAAAAB4f4oH3gxZaU_SXklwtMXroV8Spl45QqHwsXd8-DQXX
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864338015 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5xn1AAAAAQAAAAEAAAAAAAAAAB4f4oH3gxZaU_SXklwtMXroV8Spl45QqHwsXd8-DQXX
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864341067 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5xn1AAAAAQAAAAEAAAAAAAAAAB4f4oH3gxZaU_SXklwtMXroV8Spl45QqHwsXd8-DQXX
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864344130 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5xn1AAAAAQAAAAEAAAAAAAAAAB4f4oH3gxZaU_SXklwtMXroV8Spl45QqHwsXd8-DQXX
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864347179 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv5xn1AAAAAQAAAAEAAAAAAAAAAB4f4oH3gxZaU_SXklwtMXroV8Spl45QqHwsXd8-DQXX
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864350284 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv51bkAAAAAQAAAAEAAAAAAAAAAI3Vc6zofg2XD-0kDscUJiB0EXyTe6bpk0hyNDmW753G
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864353414 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv51bkAAAAAQAAAAEAAAAAAAAAAI3Vc6zofg2XD-0kDscUJiB0EXyTe6bpk0hyNDmW753G
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864356479 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv51bkAAAAAQAAAAEAAAAAAAAAAI3Vc6zofg2XD-0kDscUJiB0EXyTe6bpk0hyNDmW753G
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864359533 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv51bkAAAAAQAAAAEAAAAAAAAAAI3Vc6zofg2XD-0kDscUJiB0EXyTe6bpk0hyNDmW753G
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864362650 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv51bkAAAAAQAAAAEAAAAAAAAAAI3Vc6zofg2XD-0kDscUJiB0EXyTe6bpk0hyNDmW753G
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864365738 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv55M7AAAAAQAAAAEAAAAAAAAAAMbB8dlE8aKIUM8LtheFPeffAw3GkfR1MhPHIC0rwWOw
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864368852 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv55M7AAAAAQAAAAEAAAAAAAAAAMbB8dlE8aKIUM8LtheFPeffAw3GkfR1MhPHIC0rwWOw
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864371979 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv55M7AAAAAQAAAAEAAAAAAAAAAMbB8dlE8aKIUM8LtheFPeffAw3GkfR1MhPHIC0rwWOw
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864375146 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv55M7AAAAAQAAAAEAAAAAAAAAAMbB8dlE8aKIUM8LtheFPeffAw3GkfR1MhPHIC0rwWOw
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864378212 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv55M7AAAAAQAAAAEAAAAAAAAAAMbB8dlE8aKIUM8LtheFPeffAw3GkfR1MhPHIC0rwWOw
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864381253 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv58_UAAAAAQAAAAEAAAAAAAAAAAL8uUVXenMkPEKKexQQxwDW69oPp9zgnEvvt1vS_ETd
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864384337 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv58_UAAAAAQAAAAEAAAAAAAAAAAL8uUVXenMkPEKKexQQxwDW69oPp9zgnEvvt1vS_ETd
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864387388 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv58_UAAAAAQAAAAEAAAAAAAAAAAL8uUVXenMkPEKKexQQxwDW69oPp9zgnEvvt1vS_ETd
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864390423 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv58_UAAAAAQAAAAEAAAAAAAAAAAL8uUVXenMkPEKKexQQxwDW69oPp9zgnEvvt1vS_ETd
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864393494 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv58_UAAAAAQAAAAEAAAAAAAAAAAL8uUVXenMkPEKKexQQxwDW69oPp9zgnEvvt1vS_ETd
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864396634 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6Av3AAAAAQAAAAEAAAAAAAAAAElykDWuZTBZH4tong3MIf39nVgCt6W4ZTK4eDT7mQoI
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864399762 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6Av3AAAAAQAAAAEAAAAAAAAAAElykDWuZTBZH4tong3MIf39nVgCt6W4ZTK4eDT7mQoI
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864402887 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6Av3AAAAAQAAAAEAAAAAAAAAAElykDWuZTBZH4tong3MIf39nVgCt6W4ZTK4eDT7mQoI
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864405955 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6Av3AAAAAQAAAAEAAAAAAAAAAElykDWuZTBZH4tong3MIf39nVgCt6W4ZTK4eDT7mQoI
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864409002 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6Av3AAAAAQAAAAEAAAAAAAAAAElykDWuZTBZH4tong3MIf39nVgCt6W4ZTK4eDT7mQoI
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864412109 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6EhnAAAAAQAAAAEAAAAAAAAAAIp0dv61SoZT7wnoBLhUF7IMqEQZO9JbZt6vtYoDjPty
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864415236 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6EhnAAAAAQAAAAEAAAAAAAAAAIp0dv61SoZT7wnoBLhUF7IMqEQZO9JbZt6vtYoDjPty
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864418317 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6EhnAAAAAQAAAAEAAAAAAAAAAIp0dv61SoZT7wnoBLhUF7IMqEQZO9JbZt6vtYoDjPty
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864421451 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6EhnAAAAAQAAAAEAAAAAAAAAAIp0dv61SoZT7wnoBLhUF7IMqEQZO9JbZt6vtYoDjPty
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864424585 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6EhnAAAAAQAAAAEAAAAAAAAAAIp0dv61SoZT7wnoBLhUF7IMqEQZO9JbZt6vtYoDjPty
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864427686 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6IUtAAAAAQAAAAEAAAAAAAAAAIn_idr2SWV9kmJ0S9wl4V_un68XqjPII7sqX5hNu7O0
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864430851 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6IUtAAAAAQAAAAEAAAAAAAAAAIn_idr2SWV9kmJ0S9wl4V_un68XqjPII7sqX5hNu7O0
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864433914 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6IUtAAAAAQAAAAEAAAAAAAAAAIn_idr2SWV9kmJ0S9wl4V_un68XqjPII7sqX5hNu7O0
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864436954 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6IUtAAAAAQAAAAEAAAAAAAAAAIn_idr2SWV9kmJ0S9wl4V_un68XqjPII7sqX5hNu7O0
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864439991 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6IUtAAAAAQAAAAEAAAAAAAAAAIn_idr2SWV9kmJ0S9wl4V_un68XqjPII7sqX5hNu7O0
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864443090 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6MF9AAAAAQAAAAEAAAAAAAAAAIy2K_kd46rQ796-GShHxUW9Tuf-PDyVlTFb_AIgud9n
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864446237 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6MF9AAAAAQAAAAEAAAAAAAAAAIy2K_kd46rQ796-GShHxUW9Tuf-PDyVlTFb_AIgud9n
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864449344 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6MF9AAAAAQAAAAEAAAAAAAAAAIy2K_kd46rQ796-GShHxUW9Tuf-PDyVlTFb_AIgud9n
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864452417 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6MF9AAAAAQAAAAEAAAAAAAAAAIy2K_kd46rQ796-GShHxUW9Tuf-PDyVlTFb_AIgud9n
-
-TUNNELS
-design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1719864455476 tunnel running, 1 tunnels registered
-
-login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAmn6wAAAZBv6MF9AAAAAQAAAAEAAAAAAAAAAIy2K_kd46rQ796-GShHxUW9Tuf-PDyVlTFb_AIgud9n
-
-TUNNELS
+management-variance.gl.at.ply.gg:4270 => 127.0.0.1:19132 (minecraft-bedrock)
+stars-lead.gl.at.ply.gg:4554 => 127.0.0.1:4554 (minecraft-bedrock)
 design-pledge.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
